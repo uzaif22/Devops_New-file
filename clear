@@ -1,0 +1,61 @@
+[33mcommit 3a1830aa0467b18b5138c9a03990505961ac4372[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m)[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 11:09:32 2021 -0700
+
+    Revert "Check this out"
+    
+    This reverts commit 70b269f9e67ca09df12374fece0b1708cc8cd7e4.
+
+[33mcommit 70b269f9e67ca09df12374fece0b1708cc8cd7e4[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 10:59:17 2021 -0700
+
+    Check this out
+
+[33mcommit c3af49ea17d5432ec1cfda35336dcd0133274180[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 10:28:50 2021 -0700
+
+    full stash
+
+[33mcommit 5a3c0cf0c83f57a0a3478fc4ac3791a1c590b628[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 10:01:48 2021 -0700
+
+    test
+
+[33mcommit b963570586971f212b99f148b4835016125642bf[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 09:58:44 2021 -0700
+
+     feature1
+
+[33mcommit a4bdd12c1bf396c93aa2f6d6b244721afae36ead[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32mcheckout[m[33m)[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 09:11:01 2021 -0700
+
+    test
+
+[33mcommit 7a3f8b8f0a05efac45bf42ace4833376ebf6098b[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 07:20:13 2021 -0700
+
+    adding clone file
+
+[33mcommit d462636614ae2e183662cb237edd1f4bf7c9f1f8[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 06:58:25 2021 -0700
+
+    clond hello.py
+
+[33mcommit 46a8c49c94922e74e49e620718b0e781953a79aa[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 06:30:15 2021 -0700
+
+    modified
+
+[33mcommit 75f6d1fea46dce2cf5bb71ab6262e33cfd4ffa34[m
+Author: uzaif22 <syed.uzaif22@gmail.com>
+Date:   Sat Sep 18 05:44:26 2021 -0700
+
+     second commit
